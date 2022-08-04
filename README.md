@@ -9,13 +9,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />About me</p>
 
-- 👨🏽‍💻 I’m currently working on my Elden Ring App project.
+- 👨🏽‍💻 I’m currently working on my Elden Ring App and Tennis App projects.
 
 - 🤔 My interest lies in front end and back end web development.
 
 - I'm looking to learn new languages and technologies, like Python and Fresh  
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development
 
 - 📫 How to reach me **guillermo.nicrosi@hotmail.com**
 
