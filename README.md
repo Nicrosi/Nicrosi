@@ -9,7 +9,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />About me</p>
 
-- 👨🏽‍💻 I’m currently working on an E-commerce App with my friends.
+- 👨🏽‍💻 I’m currently working on an Eledn Ring App with my friends.
 
 - 🤔 My interest lies in front end and back end web development.
 
