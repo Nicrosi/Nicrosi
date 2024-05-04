@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo Nicrosi</h1>
-<h3 align="center">Student at SoyHenry bootcamp, Argentina🌟.</h3>
+<h3 align="center">Freelance Web Developer🌟.</h3>
 
 <br>
 
