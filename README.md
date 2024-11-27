@@ -9,11 +9,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />About me</p>
 
-- 👨🏽‍💻 I’m currently working on an Elden Ring App with my friends.
-
 - 🤔 My interest lies in front end web development.
 
-- I'm looking to learn new languages and technologies, like PHP, Laravel, and InertiaJS  
+- 👨🏽‍💻 I'm looking to learn new languages and technologies, like PHP, Laravel, and InertiaJS  
 
 - 🌱 I’m currently working on Web Development.
 
