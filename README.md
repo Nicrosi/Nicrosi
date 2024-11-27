@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo Nicrosi</h1>
-<h3 align="center">Freelance Web Developer🌟.</h3>
+<h3 align="center">Web Developer at MCN Service🌟.</h3>
 
 <br>
 
