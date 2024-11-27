@@ -47,8 +47,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 
+
 <br>
-
-
-
-[Nicrosi](https://github.com/Nicrosi)
